@@ -1,0 +1,2 @@
+# rabbitmqrpc
+RPC Worker
